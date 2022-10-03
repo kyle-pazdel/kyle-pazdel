@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -49,6 +47,8 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/kyle-pazdel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyle-pazdel&theme=noctis_minimus&show_icons=true" />
+</a>
+<a href="https://github.com/kyle-pazdel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-pazdel&theme=noctis_minimus&layout=compact" />
 </a>
 
