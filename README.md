@@ -32,7 +32,7 @@
   <h2> 🚙 What Drives Me</h2>
   <p> I love hiking and the outdoors, naturalism and conservation.</p>
   <p> I love to collaborate with others!</p>
-  <p> Coding is a passion and I can't wait to create wonderful things with wonderful people.</p>
+  <p> Coding is a passion and I look forward to creating wonderful things with amazing people.</p>
 </p>
 
 
