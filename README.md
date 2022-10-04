@@ -28,6 +28,14 @@
   <img src= "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 
+<p align="center">
+  <h2> 🚙 What Drives Me</h2>
+  <p> I love hiking and the outdoors, naturalism and conservation.</p>
+  <p> I love to collaborate with others!</p>
+  <p> Coding is a passion and I can't wait to create wonderful things with wonderful people.</p>
+</p>
+
+
 <h2> 💫 Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
